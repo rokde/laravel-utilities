@@ -8,7 +8,7 @@ final readonly class ElapsedTimeConverter
 {
     public static function convert(float $microseconds): string
     {
-        DateTime::createFromFormat(
+        return DateTime::createFromFormat(
             'U.u',
             number_format($microseconds, 6, '.', '')
         )->format('H:i:s.u');
