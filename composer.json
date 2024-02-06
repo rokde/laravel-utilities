@@ -1,0 +1,26 @@
+{
+    "name": "rokde/laravel-utilities",
+    "description": "Some laravel or php related utilities.",
+    "type": "library",
+    "require": {
+        "php": "^8.2"
+    },
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Rokde\\LaravelUtilities\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Robert Kummer",
+            "email": "post@robert-kummer.de",
+            "role": "Developer"
+        }
+    ],
+    "config": {
+        "sort-packages": true
+    },
+    "minimum-stability": "dev",
+    "prefer-stable": true
+}
