@@ -1,5 +1,10 @@
 # Utilities
 
+[![Latest Version on Packagist](https://img.shields.io/packagist/v/rokde/laravel-utilities.svg?style=flat-square)](https://packagist.org/packages/rokde/laravel-utilities)
+[![GitHub Tests Action Status](https://img.shields.io/github/actions/workflow/status/rokde/laravel-utilities/run-tests.yml?branch=main&label=tests&style=flat-square)](https://github.com/rokde/laravel-utilities/actions?query=workflow%3Arun-tests+branch%3Amain)
+[![GitHub Code Style Action Status](https://img.shields.io/github/actions/workflow/status/rokde/laravel-utilities/fix-php-code-style-issues.yml?branch=main&label=code%20style&style=flat-square)](https://github.com/rokde/laravel-utilities/actions?query=workflow%3A"Fix+PHP+code+style+issues"+branch%3Amain)
+[![Total Downloads](https://img.shields.io/packagist/dt/rokde/laravel-utilities.svg?style=flat-square)](https://packagist.org/packages/rokde/laravel-utilities)
+
 Some laravel or php related utilities.
 
     composer require rokde/laravel-utilities
